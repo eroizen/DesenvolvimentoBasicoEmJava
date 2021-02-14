@@ -1,6 +1,6 @@
 public class Actions {
     public static void main(String[] args) {
-        Car car = new Car();
+        Car car = new Car("WV", "Passat", 2020);
         int i;
         for(i=0;i<5;i++){
             System.out.println("The number of passengers is "+car.getPassengers());
@@ -10,5 +10,6 @@ public class Actions {
             System.out.println("The number of passengers is "+car.getPassengers());
             car.setPassengers(car.getPassengers() - 1);
         }
+        System.out.println("This car is a "+ car.getModel()+" "+car.getBrand()+" from "+ car.getYear());
     }
 }
