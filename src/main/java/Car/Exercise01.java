@@ -1,4 +1,6 @@
-public class Actions {
+package Car;
+
+public class Exercise01 {
     public static void main(String[] args) {
         Car car = new Car("WV", "Passat", 2020);
         int i;

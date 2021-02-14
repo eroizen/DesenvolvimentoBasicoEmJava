@@ -1,4 +1,22 @@
-Carro.java
- Carro
-Acoes.java
- Acoes
+Employees/Exercise02.java
+ Employees.Exercise02
+SimpleDateFormat/Exercise05.java
+ SimpleDateFormat.Exercise05
+Car/Exercise01.java
+ Car.Exercise01
+ClassDate/Exercise03.java
+ ClassDate.Exercise03
+Employees/Employee.java
+ Employees.Employee
+Car/Car.java
+ Car.Car
+Employees/Manager.java
+ Employees.Manager
+Employees/Clerk.java
+ Employees.Clerk
+VencimentoFatura/Exercise04.java
+ VencimentoFatura.Exercise04
+Employees/Supervisor.java
+ Employees.Supervisor
+LocalDateTime/Exercise06.java
+ LocalDateTime.Exercise06

@@ -1,3 +1,5 @@
+package Car;
+
 public class Car {
     private int passengers =0;
     private String brand;
